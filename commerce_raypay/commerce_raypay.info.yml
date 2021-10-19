@@ -1,0 +1,12 @@
+name: 'Commerce RayPay'
+type: module
+description: 'Provides RayPay payment method for Drupal Commerce (https://raypay.ir).'
+package: Commerce
+dpendencies:
+  - commerce:commerce_payment
+core_version_requirement: ^8.8 || ^9
+
+# Information added by Drupal.org packaging script on 2020-10-29
+version: '8.x-1.0'
+project: 'commerce_raypay'
+datestamp: 1632821563
